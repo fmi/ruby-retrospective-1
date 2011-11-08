@@ -1,0 +1,18 @@
+1:
+  no_semicolons: true
+  line_length: 80
+  max_nesting_depth: 2
+  methods_per_class: 4
+  lines_per_method: 4
+2:
+  no_semicolons: true
+  line_length: 80
+  max_nesting_depth: 2
+  methods_per_class: 8
+  lines_per_method: 7
+3:
+  no_semicolons: true
+  line_length: 80
+  max_nesting_depth: 1
+  methods_per_class: 8
+  lines_per_method: 7
